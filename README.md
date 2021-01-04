@@ -1,0 +1,2 @@
+# Selected-3-NLP-Language-Identification
+Language Identification is one of the Natural Language Processing problems and it is to predict the natural language that is written into a document or a text, Language identification has been a very important and research-intensive idea for over fifty years. We have obtained the WiLi-2018 Dataset which contains around 250+ languages, we have only worked on 25 language because of the weak resources that we have, and we obtained accuracies along with confusion matrices, all of this is explained in detail below.
